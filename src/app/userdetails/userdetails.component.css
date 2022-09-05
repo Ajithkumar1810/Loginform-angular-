@@ -1,0 +1,12 @@
+#submitbutton{
+    align-items: center;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    margin-left: 12vw;
+    font-size: 1.5vw;
+    
+}
+span{
+    font-size: 1vw;
+    color: red;
+}
